@@ -13,12 +13,6 @@ The following packages must be installed before running the app:
 
 ### Installation
 
-After cloning the [repository](https://github.com/RayNjeri/GoogleMaps-React.git):
-
-```
-git clone https://github.com/RayNjeri/GoogleMaps-React.git
-```
-
 - Go to the root of the directory by running:
 
 ```
