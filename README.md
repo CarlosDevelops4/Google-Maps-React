@@ -1,6 +1,6 @@
 # React with google Maps API
 
-This app integrates React with the Google Maps API, you will need your own API key.
+This App integrates React with the Google Maps API, you will need your own API key.
 
 ## Getting Started
 
