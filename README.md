@@ -1,6 +1,6 @@
 # React with google maps API, will need your own API
 
-This App integrates React with the Google Maps API
+This App integrates React with the Google Maps API, will add GraphQL
 
 ## Getting Started
 
