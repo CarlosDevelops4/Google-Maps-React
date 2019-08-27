@@ -1,4 +1,4 @@
-# React with google maps API, will need your own API
+# React with Google maps API, will need your own API
 
 This App integrates React with the Google Maps API using its coordinates
 
