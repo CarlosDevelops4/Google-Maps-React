@@ -1,6 +1,6 @@
 # React with Google maps API, will need your own API
 
-This App integrates React with the Google Maps API using its map coordinates
+This App integrates React with Google Maps API using its map coordinates
 
 ## Getting Started
 
